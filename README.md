@@ -1,4 +1,4 @@
-# D-D-Character-Creator
+# D&D-Character-Creator
 Made a small D&amp;D Character creator trying to learn polymorphism is C++. Still have no clue how it functions but its working so. There are only three classes and five races but it was just an experiment.
 
 # How to run
